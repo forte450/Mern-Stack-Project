@@ -1,0 +1,25 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "This is Swarnim Goyal Project",
+  "homepage": "https://github.com/forte450/Mern-Stack-Project#readme",
+  "bugs": {
+    "url": "https://github.com/forte450/Mern-Stack-Project/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/forte450/Mern-Stack-Project.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "mongoose": "^9.1.2",
+    "nodemon": "^3.1.11"
+  }
+}
