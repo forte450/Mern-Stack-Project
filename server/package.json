@@ -8,14 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/forte450/Mern-Stack-Project.git"
+    "url": "https://github.com/forte450/Mern-Stack-Project.git"
   },
   "license": "ISC",
   "author": "",
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
   },
   "dependencies": {
     "express": "^5.2.1",
