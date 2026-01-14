@@ -8,6 +8,6 @@ const databseConnection = async () => {
  } catch (error) {
     console.log("Database connection failed", error);
  }      
-}       
-
+}           
+         
 module.exports = databseConnection;

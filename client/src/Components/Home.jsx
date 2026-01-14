@@ -47,11 +47,11 @@ function Home() {
                     </thead>
                     <tbody>
                         <tr className="hover:bg-gray-200 ">
-                            <td className="px-6 py-4 whitespace-nowrap text-sm font-medium text-gray-900">Sample Book</td>
-                            <td className="px-6 py-4 whitespace-nowrap text-sm font-medium text-gray-900">Sample Book</td>
-                            <td className="px-6 py-4 whitespace-nowrap text-sm font-medium text-gray-900">Sample Book</td>
-                            <td className="px-6 py-4 whitespace-nowrap text-sm font-medium text-gray-900">Sample Book</td>
-                            <td className="px-6 py-4 whitespace-nowrap text-sm font-medium text-gray-900">Sample Book</td>
+                            <td className="px-6 py-4 whitespace-nowrap text-sm font-medium text-gray-900">Sample</td>
+                            <td className="px-6 py-4 whitespace-nowrap text-sm font-medium text-gray-900">Sample </td>
+                            <td className="px-6 py-4 whitespace-nowrap text-sm font-medium text-gray-900">Sample</td>
+                            <td className="px-6 py-4 whitespace-nowrap text-sm font-medium text-gray-900">Sample </td>
+                            <td className="px-6 py-4 whitespace-nowrap text-sm font-medium text-gray-900">Sample </td>
                         </tr>
                     </tbody>
                 </table>
